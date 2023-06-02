@@ -1,4 +1,4 @@
-filename: Terraform Deployment
+name: Terraform Deployment
 on:
   push:
     branches:
